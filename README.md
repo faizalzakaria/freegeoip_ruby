@@ -1,6 +1,6 @@
 # FreegeoipRuby
 
-TODO: Write a gem description
+Freegeoip Ruby wrapper.
 
 ## Installation
 
