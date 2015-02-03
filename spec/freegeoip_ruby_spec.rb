@@ -3,7 +3,7 @@ require 'spec_helper'
 describe FreegeoipRuby do
 
   FreegeoipRuby.configure do |config|
-    config.endpoint = 'http://freegeoip-service.duriana.com'
+    config.endpoint = 'https://freegeoip.net/'
     config.options = {}
   end
 
